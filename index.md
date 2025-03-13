@@ -1,5 +1,4 @@
 ---
-COMING 
-SOON
+title: "COMING SOON"
 ---
 
